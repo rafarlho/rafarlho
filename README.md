@@ -1,5 +1,6 @@
-# Hello everybody 👋🏼
-My name is Rafael Carvalho, I'm 23 y/o and I'm from Portugal! 🇵🇹
+# Hello everybody! 👋🏼
+My name is Rafael Carvalho from Portugal. 
+Concluded 1st cycle degree in Computer and Informatics Engineering in 2023.
 
 ### Visit some of my projects:
 MarketPlants, a marketplace dedicated to buy and sell any type of plants! ➡️ https://marketplants.netlify.app/ 🪴
