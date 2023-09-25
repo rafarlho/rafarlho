@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello everybody 👋🏼
+
+My name is Rafael Carvalho, I'm 23 y/o and I'm from Portugal! 🇵🇹
 
 <!--
 **rafarlho/rafarlho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
