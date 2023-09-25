@@ -2,9 +2,9 @@
 
 My name is Rafael Carvalho, I'm 23 y/o and I'm from Portugal! 🇵🇹
 
-MarketPlants, a marketplace dedicated to buy and sell any type of plants!
-➡️ Explore MarketPlants : https://marketplants.netlify.app/
-➡️ Git repository :  https://github.com/rafarlho/MarketPlants
+MarketPlants, a marketplace dedicated to buy and sell any type of plants! ➡️ https://marketplants.netlify.app/ 🪴
+
+
 
 <!--
 **rafarlho/rafarlho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
