@@ -1,4 +1,4 @@
-### Hello everybody 👋🏼
+# Hello everybody 👋🏼
 My name is Rafael Carvalho, I'm 23 y/o and I'm from Portugal! 🇵🇹
 
 ### Visit some of my projects:
