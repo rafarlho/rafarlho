@@ -1,5 +1,5 @@
 ## Hello everybody 👋🏼
-### My name is Rafael Carvalho, I'm 23 y/o and I'm from Portugal! 🇵🇹
+## My name is Rafael Carvalho, I'm 23 y/o and I'm from Portugal! 🇵🇹
 
 ## Visit some of my projects:
 # MarketPlants, a marketplace dedicated to buy and sell any type of plants! ➡️ https://marketplants.netlify.app/ 🪴
