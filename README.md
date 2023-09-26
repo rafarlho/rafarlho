@@ -5,7 +5,7 @@ Concluded 1st cycle degree in Computer and Informatics Engineering in 2023.
 ### Visit some projects in which I collaborated :
 MarketPlants, a marketplace developed in React dedicated to buy and sell any type of plants! ➡️ https://marketplants.netlify.app/ 🪴
 
-ShowTime, a project in Three.js that simulates a chinese shaddow show! ➡️ https://rafarlho.github.io/
+ShowTime, a project in Three.js that simulates a chinese shadow show! ➡️ https://rafarlho.github.io/
 
 Portal for Service Mesh for Virtualized Environments, LECI final project. ➡️ https://raposo06.github.io/Raposo.github.io/
 
