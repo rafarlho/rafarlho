@@ -1,6 +1,7 @@
 # Hello everybody! 👋🏼
 My name is Rafael Carvalho from Portugal. 
 Concluded 1st cycle degree in Computer and Informatics Engineering in 2023.
+Currently workin @Bosch Security Systems as lead front-end dev.
 
 ### Visit some projects in which I collaborated :
 MarketPlants, a marketplace developed in React dedicated to buy and sell any type of plants! ➡️ https://marketplants.netlify.app/ 🪴
