@@ -1,9 +1,12 @@
 # Hello everybody! 👋🏼
 My name is Rafael Carvalho from Portugal. 
 Concluded 1st cycle degree in Computer and Informatics Engineering in 2023.
-Currently workin @Bosch Security Systems as lead front-end dev.
+Currently working @Keenfinity as lead front-end dev.
 
 ### Visit some projects in which I collaborated :
+
+NgxStartingLib, a CLI tool that creates and sets up Angular projects with essential configurations, including Angular Material, TailwindCSS, and Ngx-Translate ➡️ https://www.npmjs.com/package/ngx-starting-lib
+
 MarketPlants, a marketplace developed in React dedicated to buy and sell any type of plants! ➡️ https://marketplants.netlify.app/ 🪴
 
 ShowTime, a project in Three.js that simulates a chinese shadow show! ➡️ https://rafarlho.github.io/
