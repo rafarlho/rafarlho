@@ -1,7 +1,8 @@
 # Hello everybody! 👋🏼
 My name is Rafael Carvalho from Portugal. 
 Concluded 1st cycle degree in Computer and Informatics Engineering in 2023.
-Currently working @Keenfinity as lead front-end dev.
+Worked @Bosch Security System from February 2024 to July 2025, as lead front-end dev.
+Currently working @Keenfinity as full-stack developer, while also providing support to the AI investigation team.
 
 ### Visit some projects in which I collaborated :
 
