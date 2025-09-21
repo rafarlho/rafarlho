@@ -5,6 +5,8 @@ Currently working @Keenfinity as lead front-end dev.
 
 ### Visit some projects in which I collaborated :
 
+Fios De Cabaços, a web app to visualize and order handmade crochê products ➡️ https://fiosdecabacos.web.app/
+
 NgxStartingLib, a CLI tool that creates and sets up Angular projects with essential configurations, including Angular Material, TailwindCSS, and Ngx-Translate ➡️ https://www.npmjs.com/package/ngx-starting-lib
 
 MarketPlants, a marketplace developed in React dedicated to buy and sell any type of plants! ➡️ https://marketplants.netlify.app/ 🪴
